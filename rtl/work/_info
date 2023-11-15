@@ -1,0 +1,311 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/rtl
+vAXI_rw_FIFO
+!s110 1698225547
+!i10b 1
+!s100 zZIDfXG:D2SDJf>H^`:Xo3
+INF31f66MNU;TjR7gFzPn;2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z2 w1698225547
+8c:\users\jack\appdata\local\temp\tmpmgzeyx.v
+Fc:\users\jack\appdata\local\temp\tmpmgzeyx.v
+Z3 L0 10
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1698225547.000000
+!s107 c:\users\jack\appdata\local\temp\tmpmgzeyx.v|
+!s90 c:\users\jack\appdata\local\temp\tmpmgzeyx.v|
+!i113 0
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@a@x@i_rw_@f@i@f@o
+vbilinear_calculator
+!s110 1698228490
+!i10b 1
+!s100 =lhF<=R7K@FCdoL@?o[Yl2
+I^@RC[A_ZJ``if^8EO]_]o3
+R1
+R0
+w1698228490
+8c:\users\jack\appdata\local\temp\tmpitd5q0.v
+Fc:\users\jack\appdata\local\temp\tmpitd5q0.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698228490.000000
+!s107 c:\users\jack\appdata\local\temp\tmpitd5q0.v|
+!s90 c:\users\jack\appdata\local\temp\tmpitd5q0.v|
+!i113 0
+R5
+R6
+vbilinear_interpolation
+!s110 1698228484
+!i10b 1
+!s100 LX5zocgBFmjF`Pa1X<N4h0
+ImCnA7G0V4:X07haD7;6km1
+R1
+R0
+w1698228484
+8c:\users\jack\appdata\local\temp\tmp0jvqre.v
+Fc:\users\jack\appdata\local\temp\tmp0jvqre.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698228484.000000
+!s107 c:\users\jack\appdata\local\temp\tmp0jvqre.v|
+!s90 c:\users\jack\appdata\local\temp\tmp0jvqre.v|
+!i113 0
+R5
+R6
+vbilinear_interpolation_scaler
+!s110 1698233013
+!i10b 1
+!s100 48>ND3_b_ZgEZBmFZ8;=b1
+IAd1YZBLQ=Xg:icneL<8LI3
+R1
+R0
+w1698233013
+8c:\users\jack\appdata\local\temp\tmp1k0wt8.v
+Fc:\users\jack\appdata\local\temp\tmp1k0wt8.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698233013.000000
+!s107 c:\users\jack\appdata\local\temp\tmp1k0wt8.v|
+!s90 c:\users\jack\appdata\local\temp\tmp1k0wt8.v|
+!i113 0
+R5
+R6
+vController
+!s110 1698237695
+!i10b 1
+!s100 6A9N]5ZPjAU<3W8=O2^gG1
+I^4nl5SGFXl[T0Q=hlQL:72
+R1
+R0
+w1698237695
+8c:\users\jack\appdata\local\temp\tmp0jxgap.v
+Fc:\users\jack\appdata\local\temp\tmp0jxgap.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698237695.000000
+!s107 c:\users\jack\appdata\local\temp\tmp0jxgap.v|
+!s90 c:\users\jack\appdata\local\temp\tmp0jxgap.v|
+!i113 0
+R5
+R6
+n@controller
+vDDR3_interface_top
+!s110 1698225587
+!i10b 1
+!s100 9YJG@>DFQH8RS=fF6^1lb3
+I^BCQ<o_UMNM2DILf=Z[ZY3
+R1
+R0
+w1698225587
+8c:\users\jack\appdata\local\temp\tmpf229dg.v
+Fc:\users\jack\appdata\local\temp\tmpf229dg.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698225587.000000
+!s107 c:\users\jack\appdata\local\temp\tmpf229dg.v|
+!s90 c:\users\jack\appdata\local\temp\tmpf229dg.v|
+!i113 0
+R5
+R6
+n@d@d@r3_interface_top
+vHDMI_top
+!s110 1698226663
+!i10b 1
+!s100 6noK<?ecTl]1ed]<5EZQD0
+IHViC]`4G;?j[zd3kHQSSc2
+R1
+R0
+w1698226663
+8c:\users\jack\appdata\local\temp\tmpzvyo8m.v
+Fc:\users\jack\appdata\local\temp\tmpzvyo8m.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698226663.000000
+!s107 c:\users\jack\appdata\local\temp\tmpzvyo8m.v|
+!s90 c:\users\jack\appdata\local\temp\tmpzvyo8m.v|
+!i113 0
+R5
+R6
+n@h@d@m@i_top
+vimage_reduce_x2
+!s110 1698236200
+!i10b 1
+!s100 ^bTh@B6_:fl[87j;1^fdU3
+IH>XchNRSRUMeibYGQd[301
+R1
+R0
+w1698236200
+8c:\users\jack\appdata\local\temp\tmpm6xkdl.v
+Fc:\users\jack\appdata\local\temp\tmpm6xkdl.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698236200.000000
+!s107 c:\users\jack\appdata\local\temp\tmpm6xkdl.v|
+!s90 c:\users\jack\appdata\local\temp\tmpm6xkdl.v|
+!i113 0
+R5
+R6
+vms72xx_init
+!s110 1698226198
+!i10b 1
+!s100 JaoWL66dTMLYH:C8O:DdK3
+Iz;=X70zHaRV=h5c8lC<1V2
+R1
+R0
+w1698226197
+8c:\users\jack\appdata\local\temp\tmpsaj477.v
+Fc:\users\jack\appdata\local\temp\tmpsaj477.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698226197.000000
+!s107 c:\users\jack\appdata\local\temp\tmpsaj477.v|
+!s90 c:\users\jack\appdata\local\temp\tmpsaj477.v|
+!i113 0
+R5
+R6
+vsimplified_AXI
+!s110 1698225548
+!i10b 1
+!s100 JC471fJiE3ALbV[zX>fg70
+Ic:WMPKj;:f=JJdC4^0n?40
+R1
+R0
+R2
+8c:\users\jack\appdata\local\temp\tmp00kk3k.v
+Fc:\users\jack\appdata\local\temp\tmp00kk3k.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698225548.000000
+!s107 c:\users\jack\appdata\local\temp\tmp00kk3k.v|
+!s90 c:\users\jack\appdata\local\temp\tmp00kk3k.v|
+!i113 0
+R5
+R6
+nsimplified_@a@x@i
+vVideo_processing_top
+!s110 1698237184
+!i10b 1
+!s100 ^LS7C?MYll7lD?2GV`k;K0
+I6H0=4MAzQ<CXUBRXVZhOl1
+R1
+R0
+w1698237184
+8c:\users\jack\appdata\local\temp\tmpih854_.v
+Fc:\users\jack\appdata\local\temp\tmpih854_.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698237184.000000
+!s107 c:\users\jack\appdata\local\temp\tmpih854_.v|
+!s90 c:\users\jack\appdata\local\temp\tmpih854_.v|
+!i113 0
+R5
+R6
+n@video_processing_top
+vVideo_processing_top_1
+!s110 1698237285
+!i10b 1
+!s100 Q]cIf7e7[YWUmbQAK:CY[3
+IBQ<1hTb3]Lz;SCQc=?Xfj1
+R1
+R0
+w1698237285
+8c:\users\jack\appdata\local\temp\tmplphluh.v
+Fc:\users\jack\appdata\local\temp\tmplphluh.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698237285.000000
+!s107 c:\users\jack\appdata\local\temp\tmplphluh.v|
+!s90 c:\users\jack\appdata\local\temp\tmplphluh.v|
+!i113 0
+R5
+R6
+n@video_processing_top_1
+vvideo_stitching
+!s110 1698225341
+!i10b 1
+!s100 SPhBCJc@MM=0DHn=f]Z:n0
+IZEFHN^c^gD^:d9ebO]6@K2
+R1
+R0
+w1698225341
+8c:\users\jack\appdata\local\temp\tmpdom792.v
+Fc:\users\jack\appdata\local\temp\tmpdom792.v
+L0 12
+R4
+r1
+!s85 0
+31
+!s108 1698225341.000000
+!s107 c:\users\jack\appdata\local\temp\tmpdom792.v|
+!s90 c:\users\jack\appdata\local\temp\tmpdom792.v|
+!i113 0
+R5
+R6
+vvideo_stitching_scaling
+!s110 1698241376
+!i10b 1
+!s100 0_ig:VbCjmP;g3:ah?h[W1
+IE[nS]@D[_]SCoFMgMlWCD3
+R1
+R0
+w1698241376
+8c:\users\jack\appdata\local\temp\tmpt96k9x.v
+Fc:\users\jack\appdata\local\temp\tmpt96k9x.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1698241376.000000
+!s107 c:\users\jack\appdata\local\temp\tmpt96k9x.v|
+!s90 c:\users\jack\appdata\local\temp\tmpt96k9x.v|
+!i113 0
+R5
+R6
