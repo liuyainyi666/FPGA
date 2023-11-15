@@ -1,0 +1,879 @@
+[Info] [2023-10-25 17:23:39] /***************************Start Configuration***************************/
+[Info] [2023-10-25 17:23:39] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 17:23:39] Version: 99559
+[Info] [2023-10-25 17:23:40] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 17:23:40] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 17:23:42] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 17:23:42] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 17:23:42] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 17:23:42] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 17:23:42] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 17:23:42] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 17:23:43] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 17:23:43] Finish.
+[Info] [2023-10-25 17:23:43] Connect server succeeded
+[Debug] [2023-10-25 17:23:43] Send RPC:1
+[Debug] [2023-10-25 17:23:43] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 17:23:43] Send RPC:2
+[Debug] [2023-10-25 17:23:43] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 17:23:43] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 17:23:43] Send RPC:3
+[Debug] [2023-10-25 17:23:43] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 17:23:43] End to send initialize chain cmd.
+[Debug] [2023-10-25 17:23:43] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 17:23:44] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-25 17:23:44] begin the exec of open cable cmd...
+[Debug] [2023-10-25 17:23:44] Begin to deal with chain from server...
+[Debug] [2023-10-25 17:23:44] Begin to set user chain...
+[Debug] [2023-10-25 17:23:44] End to set user chain.
+[Debug] [2023-10-25 17:23:44] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 17:23:44] End to update graphic item and tree item ...
+[Info] [2023-10-25 17:23:45] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 17:23:45] begin to get device info from CFG file...
+[Debug] [2023-10-25 17:23:45] end to get device info from CFG file...
+[Debug] [2023-10-25 17:23:45] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 17:23:45] End to update graphic item and tree item ...
+[Debug] [2023-10-25 17:23:45] End to deal wiht chain from server.
+[Debug] [2023-10-25 17:23:45] end the exec of open cable cmd.
+[Debug] [2023-10-25 17:23:45] COMMAND[Open config cable] execute successfully, takes 2.8 secs.
+[Debug] [2023-10-25 17:24:11] Begin to send programming cmd...
+[Debug] [2023-10-25 17:24:11] Send RPC:4
+[Debug] [2023-10-25 17:24:11] Begin to send program data.
+[Debug] [2023-10-25 17:24:11] End to send program data.
+[Debug] [2023-10-25 17:24:11] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 17:24:11] The value of Progress is 6
+[Debug] [2023-10-25 17:24:11] The value of Progress is 10
+[Debug] [2023-10-25 17:24:12] The value of Progress is 15
+[Debug] [2023-10-25 17:24:12] The value of Progress is 20
+[Debug] [2023-10-25 17:24:12] The value of Progress is 25
+[Debug] [2023-10-25 17:24:12] The value of Progress is 30
+[Debug] [2023-10-25 17:24:12] The value of Progress is 35
+[Debug] [2023-10-25 17:24:12] The value of Progress is 40
+[Debug] [2023-10-25 17:24:12] The value of Progress is 45
+[Debug] [2023-10-25 17:24:12] The value of Progress is 50
+[Debug] [2023-10-25 17:24:12] The value of Progress is 55
+[Debug] [2023-10-25 17:24:12] The value of Progress is 60
+[Debug] [2023-10-25 17:24:12] The value of Progress is 65
+[Debug] [2023-10-25 17:24:12] The value of Progress is 70
+[Debug] [2023-10-25 17:24:13] The value of Progress is 75
+[Debug] [2023-10-25 17:24:13] The value of Progress is 80
+[Debug] [2023-10-25 17:24:13] The value of Progress is 85
+[Debug] [2023-10-25 17:24:13] The value of Progress is 90
+[Debug] [2023-10-25 17:24:13] The value of Progress is 95
+[Debug] [2023-10-25 17:24:13] The value of Progress is 100
+[Debug] [2023-10-25 17:24:13] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-10-25 17:24:13] End to send programming cmd.
+[Debug] [2023-10-25 17:24:24] Begin to send programming cmd...
+[Debug] [2023-10-25 17:24:24] Send RPC:5
+[Debug] [2023-10-25 17:24:24] Begin to send program data.
+[Debug] [2023-10-25 17:24:24] End to send program data.
+[Debug] [2023-10-25 17:24:24] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 17:24:24] The value of Progress is 6
+[Debug] [2023-10-25 17:24:24] The value of Progress is 10
+[Debug] [2023-10-25 17:24:24] The value of Progress is 15
+[Debug] [2023-10-25 17:24:24] The value of Progress is 20
+[Debug] [2023-10-25 17:24:24] The value of Progress is 25
+[Debug] [2023-10-25 17:24:24] The value of Progress is 30
+[Debug] [2023-10-25 17:24:24] The value of Progress is 35
+[Debug] [2023-10-25 17:24:24] The value of Progress is 40
+[Debug] [2023-10-25 17:24:25] The value of Progress is 45
+[Debug] [2023-10-25 17:24:25] The value of Progress is 50
+[Debug] [2023-10-25 17:24:25] The value of Progress is 55
+[Debug] [2023-10-25 17:24:25] The value of Progress is 60
+[Debug] [2023-10-25 17:24:25] The value of Progress is 65
+[Debug] [2023-10-25 17:24:25] The value of Progress is 70
+[Debug] [2023-10-25 17:24:25] The value of Progress is 75
+[Debug] [2023-10-25 17:24:25] The value of Progress is 80
+[Debug] [2023-10-25 17:24:25] The value of Progress is 85
+[Debug] [2023-10-25 17:24:25] The value of Progress is 90
+[Debug] [2023-10-25 17:24:25] The value of Progress is 95
+[Debug] [2023-10-25 17:24:26] The value of Progress is 100
+[Debug] [2023-10-25 17:24:26] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 17:24:26] End to send programming cmd.
+[Info] [2023-10-25 17:25:05] /***************************End Configration***************************/
+[Info] [2023-10-25 17:43:17] /***************************Start Configuration***************************/
+[Info] [2023-10-25 17:43:17] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 17:43:17] Version: 99559
+[Info] [2023-10-25 17:43:18] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 17:43:18] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 17:43:33] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 17:43:33] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 17:43:33] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 17:43:33] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 17:43:33] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 17:43:33] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 17:43:33] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 17:43:33] Finish.
+[Info] [2023-10-25 17:43:33] Connect server succeeded
+[Debug] [2023-10-25 17:43:33] Send RPC:1
+[Debug] [2023-10-25 17:43:33] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 17:43:33] Send RPC:2
+[Debug] [2023-10-25 17:43:33] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 17:43:33] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 17:43:33] Send RPC:3
+[Debug] [2023-10-25 17:43:33] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 17:43:33] End to send initialize chain cmd.
+[Debug] [2023-10-25 17:43:33] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 17:43:34] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2023-10-25 17:43:38] begin the exec of open cable cmd...
+[Debug] [2023-10-25 17:43:38] Begin to deal with chain from server...
+[Debug] [2023-10-25 17:43:38] Begin to set user chain...
+[Debug] [2023-10-25 17:43:38] End to set user chain.
+[Debug] [2023-10-25 17:43:38] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 17:43:38] End to update graphic item and tree item ...
+[Info] [2023-10-25 17:43:39] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 17:43:39] begin to get device info from CFG file...
+[Debug] [2023-10-25 17:43:39] end to get device info from CFG file...
+[Debug] [2023-10-25 17:43:39] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 17:43:39] End to update graphic item and tree item ...
+[Debug] [2023-10-25 17:43:39] End to deal wiht chain from server.
+[Debug] [2023-10-25 17:43:39] end the exec of open cable cmd.
+[Debug] [2023-10-25 17:43:39] COMMAND[Open config cable] execute successfully, takes 5.8 secs.
+[Debug] [2023-10-25 17:43:40] Begin to send programming cmd...
+[Debug] [2023-10-25 17:43:40] Send RPC:4
+[Debug] [2023-10-25 17:43:40] Begin to send program data.
+[Debug] [2023-10-25 17:43:40] End to send program data.
+[Debug] [2023-10-25 17:43:40] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 17:43:41] The value of Progress is 6
+[Debug] [2023-10-25 17:43:41] The value of Progress is 10
+[Debug] [2023-10-25 17:43:41] The value of Progress is 15
+[Debug] [2023-10-25 17:43:41] The value of Progress is 20
+[Debug] [2023-10-25 17:43:41] The value of Progress is 25
+[Debug] [2023-10-25 17:43:41] The value of Progress is 30
+[Debug] [2023-10-25 17:43:41] The value of Progress is 35
+[Debug] [2023-10-25 17:43:41] The value of Progress is 40
+[Debug] [2023-10-25 17:43:41] The value of Progress is 45
+[Debug] [2023-10-25 17:43:41] The value of Progress is 50
+[Debug] [2023-10-25 17:43:41] The value of Progress is 55
+[Debug] [2023-10-25 17:43:41] The value of Progress is 60
+[Debug] [2023-10-25 17:43:42] The value of Progress is 65
+[Debug] [2023-10-25 17:43:42] The value of Progress is 70
+[Debug] [2023-10-25 17:43:42] The value of Progress is 75
+[Debug] [2023-10-25 17:43:42] The value of Progress is 80
+[Debug] [2023-10-25 17:43:42] The value of Progress is 85
+[Debug] [2023-10-25 17:43:42] The value of Progress is 90
+[Debug] [2023-10-25 17:43:42] The value of Progress is 95
+[Debug] [2023-10-25 17:43:42] The value of Progress is 100
+[Debug] [2023-10-25 17:43:42] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 17:43:42] End to send programming cmd.
+[Info] [2023-10-25 17:44:24] /***************************End Configration***************************/
+[Info] [2023-10-25 18:01:09] /***************************Start Configuration***************************/
+[Info] [2023-10-25 18:01:09] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 18:01:09] Version: 99559
+[Info] [2023-10-25 18:01:10] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 18:01:10] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 18:01:15] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 18:01:15] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 18:01:15] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 18:01:15] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 18:01:15] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 18:01:15] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 18:01:15] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 18:01:15] Finish.
+[Info] [2023-10-25 18:01:15] Connect server succeeded
+[Debug] [2023-10-25 18:01:15] Send RPC:1
+[Debug] [2023-10-25 18:01:15] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 18:01:15] Send RPC:2
+[Debug] [2023-10-25 18:01:15] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 18:01:15] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 18:01:15] Send RPC:3
+[Debug] [2023-10-25 18:01:15] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 18:01:15] End to send initialize chain cmd.
+[Debug] [2023-10-25 18:01:15] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 18:01:16] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-25 18:01:16] begin the exec of open cable cmd...
+[Debug] [2023-10-25 18:01:16] Begin to deal with chain from server...
+[Debug] [2023-10-25 18:01:16] Begin to set user chain...
+[Debug] [2023-10-25 18:01:16] End to set user chain.
+[Debug] [2023-10-25 18:01:16] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 18:01:16] End to update graphic item and tree item ...
+[Info] [2023-10-25 18:01:17] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 18:01:17] begin to get device info from CFG file...
+[Debug] [2023-10-25 18:01:17] end to get device info from CFG file...
+[Debug] [2023-10-25 18:01:17] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 18:01:17] End to update graphic item and tree item ...
+[Debug] [2023-10-25 18:01:17] End to deal wiht chain from server.
+[Debug] [2023-10-25 18:01:17] end the exec of open cable cmd.
+[Debug] [2023-10-25 18:01:17] COMMAND[Open config cable] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-25 18:01:18] Begin to send programming cmd...
+[Debug] [2023-10-25 18:01:18] Send RPC:4
+[Debug] [2023-10-25 18:01:18] Begin to send program data.
+[Debug] [2023-10-25 18:01:18] End to send program data.
+[Debug] [2023-10-25 18:01:18] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 18:01:18] The value of Progress is 6
+[Debug] [2023-10-25 18:01:18] The value of Progress is 10
+[Debug] [2023-10-25 18:01:18] The value of Progress is 15
+[Debug] [2023-10-25 18:01:19] The value of Progress is 20
+[Debug] [2023-10-25 18:01:19] The value of Progress is 25
+[Debug] [2023-10-25 18:01:19] The value of Progress is 30
+[Debug] [2023-10-25 18:01:19] The value of Progress is 35
+[Debug] [2023-10-25 18:01:19] The value of Progress is 40
+[Debug] [2023-10-25 18:01:19] The value of Progress is 45
+[Debug] [2023-10-25 18:01:19] The value of Progress is 50
+[Debug] [2023-10-25 18:01:19] The value of Progress is 55
+[Debug] [2023-10-25 18:01:19] The value of Progress is 60
+[Debug] [2023-10-25 18:01:19] The value of Progress is 65
+[Debug] [2023-10-25 18:01:19] The value of Progress is 70
+[Debug] [2023-10-25 18:01:20] The value of Progress is 75
+[Debug] [2023-10-25 18:01:20] The value of Progress is 80
+[Debug] [2023-10-25 18:01:20] The value of Progress is 85
+[Debug] [2023-10-25 18:01:20] The value of Progress is 90
+[Debug] [2023-10-25 18:01:20] The value of Progress is 95
+[Debug] [2023-10-25 18:01:20] The value of Progress is 100
+[Debug] [2023-10-25 18:01:20] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 18:01:20] End to send programming cmd.
+[Debug] [2023-10-25 18:01:29] Begin to send programming cmd...
+[Debug] [2023-10-25 18:01:29] Send RPC:5
+[Debug] [2023-10-25 18:01:29] Begin to send program data.
+[Debug] [2023-10-25 18:01:29] End to send program data.
+[Debug] [2023-10-25 18:01:29] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 18:01:29] The value of Progress is 6
+[Debug] [2023-10-25 18:01:29] The value of Progress is 10
+[Debug] [2023-10-25 18:01:29] The value of Progress is 15
+[Debug] [2023-10-25 18:01:29] The value of Progress is 20
+[Debug] [2023-10-25 18:01:29] The value of Progress is 25
+[Debug] [2023-10-25 18:01:29] The value of Progress is 30
+[Debug] [2023-10-25 18:01:29] The value of Progress is 35
+[Debug] [2023-10-25 18:01:29] The value of Progress is 40
+[Debug] [2023-10-25 18:01:30] The value of Progress is 45
+[Debug] [2023-10-25 18:01:30] The value of Progress is 50
+[Debug] [2023-10-25 18:01:30] The value of Progress is 55
+[Debug] [2023-10-25 18:01:30] The value of Progress is 60
+[Debug] [2023-10-25 18:01:30] The value of Progress is 65
+[Debug] [2023-10-25 18:01:30] The value of Progress is 70
+[Debug] [2023-10-25 18:01:30] The value of Progress is 75
+[Debug] [2023-10-25 18:01:30] The value of Progress is 80
+[Debug] [2023-10-25 18:01:30] The value of Progress is 85
+[Debug] [2023-10-25 18:01:30] The value of Progress is 90
+[Debug] [2023-10-25 18:01:30] The value of Progress is 95
+[Debug] [2023-10-25 18:01:30] The value of Progress is 100
+[Debug] [2023-10-25 18:01:31] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 18:01:31] End to send programming cmd.
+[Info] [2023-10-25 18:03:00] /***************************End Configration***************************/
+[Info] [2023-10-25 19:44:21] /***************************Start Configuration***************************/
+[Info] [2023-10-25 19:44:21] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 19:44:21] Version: 99559
+[Info] [2023-10-25 19:44:22] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 19:44:22] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 19:44:28] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 19:44:28] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 19:44:28] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 19:44:28] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 19:44:28] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 19:44:28] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 19:44:29] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 19:44:29] Finish.
+[Info] [2023-10-25 19:44:29] Connect server succeeded
+[Debug] [2023-10-25 19:44:29] Send RPC:1
+[Debug] [2023-10-25 19:44:29] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 19:44:29] Send RPC:2
+[Debug] [2023-10-25 19:44:29] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 19:44:29] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 19:44:29] Send RPC:3
+[Debug] [2023-10-25 19:44:29] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 19:44:29] End to send initialize chain cmd.
+[Debug] [2023-10-25 19:44:29] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2023-10-25 19:44:30] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-25 19:44:30] begin the exec of open cable cmd...
+[Debug] [2023-10-25 19:44:30] Begin to deal with chain from server...
+[Debug] [2023-10-25 19:44:30] Begin to set user chain...
+[Debug] [2023-10-25 19:44:30] End to set user chain.
+[Debug] [2023-10-25 19:44:30] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 19:44:30] End to update graphic item and tree item ...
+[Info] [2023-10-25 19:44:39] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 19:44:39] begin to get device info from CFG file...
+[Debug] [2023-10-25 19:44:39] end to get device info from CFG file...
+[Debug] [2023-10-25 19:44:39] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 19:44:39] End to update graphic item and tree item ...
+[Debug] [2023-10-25 19:44:39] End to deal wiht chain from server.
+[Debug] [2023-10-25 19:44:39] end the exec of open cable cmd.
+[Debug] [2023-10-25 19:44:39] COMMAND[Open config cable] execute successfully, takes 10.0 secs.
+[Debug] [2023-10-25 19:44:40] Begin to send programming cmd...
+[Debug] [2023-10-25 19:44:40] Send RPC:4
+[Debug] [2023-10-25 19:44:40] Begin to send program data.
+[Debug] [2023-10-25 19:44:40] End to send program data.
+[Debug] [2023-10-25 19:44:40] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 19:44:40] The value of Progress is 6
+[Debug] [2023-10-25 19:44:40] The value of Progress is 10
+[Debug] [2023-10-25 19:44:40] The value of Progress is 15
+[Debug] [2023-10-25 19:44:40] The value of Progress is 20
+[Debug] [2023-10-25 19:44:40] The value of Progress is 25
+[Debug] [2023-10-25 19:44:40] The value of Progress is 30
+[Debug] [2023-10-25 19:44:41] The value of Progress is 35
+[Debug] [2023-10-25 19:44:41] The value of Progress is 40
+[Debug] [2023-10-25 19:44:41] The value of Progress is 45
+[Debug] [2023-10-25 19:44:41] The value of Progress is 50
+[Debug] [2023-10-25 19:44:41] The value of Progress is 55
+[Debug] [2023-10-25 19:44:41] The value of Progress is 60
+[Debug] [2023-10-25 19:44:41] The value of Progress is 65
+[Debug] [2023-10-25 19:44:41] The value of Progress is 70
+[Debug] [2023-10-25 19:44:41] The value of Progress is 75
+[Debug] [2023-10-25 19:44:41] The value of Progress is 80
+[Debug] [2023-10-25 19:44:41] The value of Progress is 85
+[Debug] [2023-10-25 19:44:41] The value of Progress is 90
+[Debug] [2023-10-25 19:44:42] The value of Progress is 95
+[Debug] [2023-10-25 19:44:42] The value of Progress is 100
+[Debug] [2023-10-25 19:44:42] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-25 19:44:42] End to send programming cmd.
+[Debug] [2023-10-25 19:44:50] Begin to send programming cmd...
+[Debug] [2023-10-25 19:44:50] Send RPC:5
+[Debug] [2023-10-25 19:44:50] Begin to send program data.
+[Debug] [2023-10-25 19:44:50] End to send program data.
+[Debug] [2023-10-25 19:44:50] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 19:44:51] The value of Progress is 6
+[Debug] [2023-10-25 19:44:51] The value of Progress is 10
+[Debug] [2023-10-25 19:44:51] The value of Progress is 15
+[Debug] [2023-10-25 19:44:51] The value of Progress is 20
+[Debug] [2023-10-25 19:44:51] The value of Progress is 25
+[Debug] [2023-10-25 19:44:51] The value of Progress is 30
+[Debug] [2023-10-25 19:44:51] The value of Progress is 35
+[Debug] [2023-10-25 19:44:51] The value of Progress is 40
+[Debug] [2023-10-25 19:44:51] The value of Progress is 45
+[Debug] [2023-10-25 19:44:51] The value of Progress is 50
+[Debug] [2023-10-25 19:44:52] The value of Progress is 55
+[Debug] [2023-10-25 19:44:52] The value of Progress is 60
+[Debug] [2023-10-25 19:44:52] The value of Progress is 65
+[Debug] [2023-10-25 19:44:52] The value of Progress is 70
+[Debug] [2023-10-25 19:44:52] The value of Progress is 75
+[Debug] [2023-10-25 19:44:52] The value of Progress is 80
+[Debug] [2023-10-25 19:44:52] The value of Progress is 85
+[Debug] [2023-10-25 19:44:52] The value of Progress is 90
+[Debug] [2023-10-25 19:44:52] The value of Progress is 95
+[Debug] [2023-10-25 19:44:52] The value of Progress is 100
+[Debug] [2023-10-25 19:44:52] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 19:44:52] End to send programming cmd.
+[Debug] [2023-10-25 19:55:44] Begin to send programming cmd...
+[Debug] [2023-10-25 19:55:44] Send RPC:6
+[Debug] [2023-10-25 19:55:44] Begin to send program data.
+[Debug] [2023-10-25 19:55:44] End to send program data.
+[Debug] [2023-10-25 19:55:44] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 19:55:44] The value of Progress is 6
+[Debug] [2023-10-25 19:55:44] The value of Progress is 10
+[Debug] [2023-10-25 19:55:44] The value of Progress is 15
+[Debug] [2023-10-25 19:55:44] The value of Progress is 20
+[Debug] [2023-10-25 19:55:44] The value of Progress is 25
+[Debug] [2023-10-25 19:55:44] The value of Progress is 30
+[Debug] [2023-10-25 19:55:45] The value of Progress is 35
+[Debug] [2023-10-25 19:55:45] The value of Progress is 40
+[Debug] [2023-10-25 19:55:45] The value of Progress is 45
+[Debug] [2023-10-25 19:55:45] The value of Progress is 50
+[Debug] [2023-10-25 19:55:45] The value of Progress is 55
+[Debug] [2023-10-25 19:55:45] The value of Progress is 60
+[Debug] [2023-10-25 19:55:45] The value of Progress is 65
+[Debug] [2023-10-25 19:55:45] The value of Progress is 70
+[Debug] [2023-10-25 19:55:45] The value of Progress is 75
+[Debug] [2023-10-25 19:55:45] The value of Progress is 80
+[Debug] [2023-10-25 19:55:45] The value of Progress is 85
+[Debug] [2023-10-25 19:55:46] The value of Progress is 90
+[Debug] [2023-10-25 19:55:46] The value of Progress is 95
+[Debug] [2023-10-25 19:55:46] The value of Progress is 100
+[Debug] [2023-10-25 19:55:46] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 19:55:46] End to send programming cmd.
+[Debug] [2023-10-25 20:02:35] Begin to send programming cmd...
+[Debug] [2023-10-25 20:02:35] Send RPC:7
+[Debug] [2023-10-25 20:02:35] Begin to send program data.
+[Debug] [2023-10-25 20:02:35] End to send program data.
+[Debug] [2023-10-25 20:02:35] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:02:37] The value of Progress is 6
+[Debug] [2023-10-25 20:02:37] The value of Progress is 10
+[Debug] [2023-10-25 20:02:37] The value of Progress is 15
+[Debug] [2023-10-25 20:02:37] The value of Progress is 20
+[Debug] [2023-10-25 20:02:37] The value of Progress is 25
+[Debug] [2023-10-25 20:02:37] The value of Progress is 30
+[Debug] [2023-10-25 20:02:37] The value of Progress is 35
+[Debug] [2023-10-25 20:02:37] The value of Progress is 40
+[Debug] [2023-10-25 20:02:37] The value of Progress is 45
+[Debug] [2023-10-25 20:02:37] The value of Progress is 50
+[Debug] [2023-10-25 20:02:37] The value of Progress is 55
+[Debug] [2023-10-25 20:02:38] The value of Progress is 60
+[Debug] [2023-10-25 20:02:38] The value of Progress is 65
+[Debug] [2023-10-25 20:02:38] The value of Progress is 70
+[Debug] [2023-10-25 20:02:38] The value of Progress is 75
+[Debug] [2023-10-25 20:02:38] The value of Progress is 80
+[Debug] [2023-10-25 20:02:38] The value of Progress is 85
+[Debug] [2023-10-25 20:02:38] The value of Progress is 90
+[Debug] [2023-10-25 20:02:38] The value of Progress is 95
+[Debug] [2023-10-25 20:02:38] The value of Progress is 100
+[Debug] [2023-10-25 20:02:39] COMMAND[Program] execute successfully, takes 3.1 secs.
+[Debug] [2023-10-25 20:02:39] End to send programming cmd.
+[Debug] [2023-10-25 20:15:49] Begin to send programming cmd...
+[Debug] [2023-10-25 20:15:49] Send RPC:8
+[Debug] [2023-10-25 20:15:49] Begin to send program data.
+[Debug] [2023-10-25 20:15:49] End to send program data.
+[Debug] [2023-10-25 20:15:49] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:15:51] The value of Progress is 6
+[Debug] [2023-10-25 20:15:51] The value of Progress is 10
+[Debug] [2023-10-25 20:15:52] The value of Progress is 15
+[Debug] [2023-10-25 20:15:52] The value of Progress is 20
+[Debug] [2023-10-25 20:15:52] The value of Progress is 25
+[Debug] [2023-10-25 20:15:52] The value of Progress is 30
+[Debug] [2023-10-25 20:15:52] The value of Progress is 35
+[Debug] [2023-10-25 20:15:52] The value of Progress is 40
+[Debug] [2023-10-25 20:15:52] The value of Progress is 45
+[Debug] [2023-10-25 20:15:52] The value of Progress is 50
+[Debug] [2023-10-25 20:15:52] The value of Progress is 55
+[Debug] [2023-10-25 20:15:52] The value of Progress is 60
+[Debug] [2023-10-25 20:15:52] The value of Progress is 65
+[Debug] [2023-10-25 20:15:52] The value of Progress is 70
+[Debug] [2023-10-25 20:15:53] The value of Progress is 75
+[Debug] [2023-10-25 20:15:53] The value of Progress is 80
+[Debug] [2023-10-25 20:15:53] The value of Progress is 85
+[Debug] [2023-10-25 20:15:53] The value of Progress is 90
+[Debug] [2023-10-25 20:15:53] The value of Progress is 95
+[Debug] [2023-10-25 20:15:53] The value of Progress is 100
+[Debug] [2023-10-25 20:15:53] COMMAND[Program] execute successfully, takes 4.4 secs.
+[Debug] [2023-10-25 20:15:53] End to send programming cmd.
+[Debug] [2023-10-25 20:23:22] Begin to send programming cmd...
+[Debug] [2023-10-25 20:23:22] Send RPC:9
+[Debug] [2023-10-25 20:23:22] Begin to send program data.
+[Debug] [2023-10-25 20:23:22] End to send program data.
+[Debug] [2023-10-25 20:23:22] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:23:24] The value of Progress is 6
+[Debug] [2023-10-25 20:23:24] The value of Progress is 10
+[Debug] [2023-10-25 20:23:24] The value of Progress is 15
+[Debug] [2023-10-25 20:23:24] The value of Progress is 20
+[Debug] [2023-10-25 20:23:24] The value of Progress is 25
+[Debug] [2023-10-25 20:23:24] The value of Progress is 30
+[Debug] [2023-10-25 20:23:25] The value of Progress is 35
+[Debug] [2023-10-25 20:23:25] The value of Progress is 40
+[Debug] [2023-10-25 20:23:25] The value of Progress is 45
+[Debug] [2023-10-25 20:23:25] The value of Progress is 50
+[Debug] [2023-10-25 20:23:25] The value of Progress is 55
+[Debug] [2023-10-25 20:23:25] The value of Progress is 60
+[Debug] [2023-10-25 20:23:25] The value of Progress is 65
+[Debug] [2023-10-25 20:23:25] The value of Progress is 70
+[Debug] [2023-10-25 20:23:25] The value of Progress is 75
+[Debug] [2023-10-25 20:23:25] The value of Progress is 80
+[Debug] [2023-10-25 20:23:25] The value of Progress is 85
+[Debug] [2023-10-25 20:23:25] The value of Progress is 90
+[Debug] [2023-10-25 20:23:26] The value of Progress is 95
+[Debug] [2023-10-25 20:23:26] The value of Progress is 100
+[Debug] [2023-10-25 20:23:26] COMMAND[Program] execute successfully, takes 3.5 secs.
+[Debug] [2023-10-25 20:23:26] End to send programming cmd.
+[Debug] [2023-10-25 20:23:37] Begin to send programming cmd...
+[Debug] [2023-10-25 20:23:37] Send RPC:10
+[Debug] [2023-10-25 20:23:37] Begin to send program data.
+[Debug] [2023-10-25 20:23:37] End to send program data.
+[Debug] [2023-10-25 20:23:37] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:23:37] The value of Progress is 6
+[Debug] [2023-10-25 20:23:37] The value of Progress is 10
+[Debug] [2023-10-25 20:23:37] The value of Progress is 15
+[Debug] [2023-10-25 20:23:37] The value of Progress is 20
+[Debug] [2023-10-25 20:23:37] The value of Progress is 25
+[Debug] [2023-10-25 20:23:37] The value of Progress is 30
+[Debug] [2023-10-25 20:23:37] The value of Progress is 35
+[Debug] [2023-10-25 20:23:37] The value of Progress is 40
+[Debug] [2023-10-25 20:23:38] The value of Progress is 45
+[Debug] [2023-10-25 20:23:38] The value of Progress is 50
+[Debug] [2023-10-25 20:23:38] The value of Progress is 55
+[Debug] [2023-10-25 20:23:38] The value of Progress is 60
+[Debug] [2023-10-25 20:23:38] The value of Progress is 65
+[Debug] [2023-10-25 20:23:38] The value of Progress is 70
+[Debug] [2023-10-25 20:23:38] The value of Progress is 75
+[Debug] [2023-10-25 20:23:38] The value of Progress is 80
+[Debug] [2023-10-25 20:23:38] The value of Progress is 85
+[Debug] [2023-10-25 20:23:38] The value of Progress is 90
+[Debug] [2023-10-25 20:23:38] The value of Progress is 95
+[Debug] [2023-10-25 20:23:39] The value of Progress is 100
+[Debug] [2023-10-25 20:23:39] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-25 20:23:39] End to send programming cmd.
+[Debug] [2023-10-25 20:30:34] Begin to send programming cmd...
+[Debug] [2023-10-25 20:30:34] Send RPC:11
+[Debug] [2023-10-25 20:30:34] Begin to send program data.
+[Debug] [2023-10-25 20:30:34] End to send program data.
+[Debug] [2023-10-25 20:30:34] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:30:34] The value of Progress is 6
+[Debug] [2023-10-25 20:30:34] The value of Progress is 10
+[Debug] [2023-10-25 20:30:34] The value of Progress is 15
+[Debug] [2023-10-25 20:30:35] The value of Progress is 20
+[Debug] [2023-10-25 20:30:35] The value of Progress is 25
+[Debug] [2023-10-25 20:30:35] The value of Progress is 30
+[Debug] [2023-10-25 20:30:35] The value of Progress is 35
+[Debug] [2023-10-25 20:30:35] The value of Progress is 40
+[Debug] [2023-10-25 20:30:35] The value of Progress is 45
+[Debug] [2023-10-25 20:30:35] The value of Progress is 50
+[Debug] [2023-10-25 20:30:35] The value of Progress is 55
+[Debug] [2023-10-25 20:30:35] The value of Progress is 60
+[Debug] [2023-10-25 20:30:35] The value of Progress is 65
+[Debug] [2023-10-25 20:30:35] The value of Progress is 70
+[Debug] [2023-10-25 20:30:36] The value of Progress is 75
+[Debug] [2023-10-25 20:30:36] The value of Progress is 80
+[Debug] [2023-10-25 20:30:36] The value of Progress is 85
+[Debug] [2023-10-25 20:30:36] The value of Progress is 90
+[Debug] [2023-10-25 20:30:36] The value of Progress is 95
+[Debug] [2023-10-25 20:30:36] The value of Progress is 100
+[Debug] [2023-10-25 20:30:36] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-25 20:30:36] End to send programming cmd.
+[Debug] [2023-10-25 20:30:46] Begin to send programming cmd...
+[Debug] [2023-10-25 20:30:46] Send RPC:12
+[Debug] [2023-10-25 20:30:46] Begin to send program data.
+[Debug] [2023-10-25 20:30:46] End to send program data.
+[Debug] [2023-10-25 20:30:46] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:30:46] The value of Progress is 6
+[Debug] [2023-10-25 20:30:46] The value of Progress is 10
+[Debug] [2023-10-25 20:30:46] The value of Progress is 15
+[Debug] [2023-10-25 20:30:46] The value of Progress is 20
+[Debug] [2023-10-25 20:30:46] The value of Progress is 25
+[Debug] [2023-10-25 20:30:47] The value of Progress is 30
+[Debug] [2023-10-25 20:30:47] The value of Progress is 35
+[Debug] [2023-10-25 20:30:47] The value of Progress is 40
+[Debug] [2023-10-25 20:30:47] The value of Progress is 45
+[Debug] [2023-10-25 20:30:47] The value of Progress is 50
+[Debug] [2023-10-25 20:30:47] The value of Progress is 55
+[Debug] [2023-10-25 20:30:47] The value of Progress is 60
+[Debug] [2023-10-25 20:30:47] The value of Progress is 65
+[Debug] [2023-10-25 20:30:47] The value of Progress is 70
+[Debug] [2023-10-25 20:30:47] The value of Progress is 75
+[Debug] [2023-10-25 20:30:47] The value of Progress is 80
+[Debug] [2023-10-25 20:30:48] The value of Progress is 85
+[Debug] [2023-10-25 20:30:48] The value of Progress is 90
+[Debug] [2023-10-25 20:30:48] The value of Progress is 95
+[Debug] [2023-10-25 20:30:48] The value of Progress is 100
+[Debug] [2023-10-25 20:30:48] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 20:30:48] End to send programming cmd.
+[Debug] [2023-10-25 20:39:47] Begin to send programming cmd...
+[Debug] [2023-10-25 20:39:47] Send RPC:13
+[Debug] [2023-10-25 20:39:47] Begin to send program data.
+[Debug] [2023-10-25 20:39:47] End to send program data.
+[Debug] [2023-10-25 20:39:47] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:39:47] The value of Progress is 6
+[Debug] [2023-10-25 20:39:47] The value of Progress is 10
+[Debug] [2023-10-25 20:39:47] The value of Progress is 15
+[Debug] [2023-10-25 20:39:47] The value of Progress is 20
+[Debug] [2023-10-25 20:39:47] The value of Progress is 25
+[Debug] [2023-10-25 20:39:47] The value of Progress is 30
+[Debug] [2023-10-25 20:39:47] The value of Progress is 35
+[Debug] [2023-10-25 20:39:48] The value of Progress is 40
+[Debug] [2023-10-25 20:39:48] The value of Progress is 45
+[Debug] [2023-10-25 20:39:48] The value of Progress is 50
+[Debug] [2023-10-25 20:39:48] The value of Progress is 55
+[Debug] [2023-10-25 20:39:48] The value of Progress is 60
+[Debug] [2023-10-25 20:39:48] The value of Progress is 65
+[Debug] [2023-10-25 20:39:48] The value of Progress is 70
+[Debug] [2023-10-25 20:39:48] The value of Progress is 75
+[Debug] [2023-10-25 20:39:48] The value of Progress is 80
+[Debug] [2023-10-25 20:39:48] The value of Progress is 85
+[Debug] [2023-10-25 20:39:48] The value of Progress is 90
+[Debug] [2023-10-25 20:39:49] The value of Progress is 95
+[Debug] [2023-10-25 20:39:49] The value of Progress is 100
+[Debug] [2023-10-25 20:39:49] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 20:39:49] End to send programming cmd.
+[Info] [2023-10-25 20:43:12] /***************************End Configration***************************/
+[Info] [2023-10-25 20:48:45] /***************************Start Configuration***************************/
+[Info] [2023-10-25 20:48:45] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 20:48:45] Version: 99559
+[Info] [2023-10-25 20:48:46] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 20:48:46] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 20:48:48] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 20:48:48] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 20:48:48] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 20:48:48] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 20:48:48] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 20:48:48] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 20:48:48] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 20:48:48] Finish.
+[Info] [2023-10-25 20:48:48] Connect server succeeded
+[Debug] [2023-10-25 20:48:48] Send RPC:1
+[Debug] [2023-10-25 20:48:48] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 20:48:48] Send RPC:2
+[Debug] [2023-10-25 20:48:48] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 20:48:48] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 20:48:48] Send RPC:3
+[Debug] [2023-10-25 20:48:48] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 20:48:48] End to send initialize chain cmd.
+[Debug] [2023-10-25 20:48:48] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 20:48:49] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-25 20:48:49] begin the exec of open cable cmd...
+[Debug] [2023-10-25 20:48:49] Begin to deal with chain from server...
+[Debug] [2023-10-25 20:48:49] Begin to set user chain...
+[Debug] [2023-10-25 20:48:49] End to set user chain.
+[Debug] [2023-10-25 20:48:49] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 20:48:49] End to update graphic item and tree item ...
+[Info] [2023-10-25 20:48:50] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 20:48:50] begin to get device info from CFG file...
+[Debug] [2023-10-25 20:48:50] end to get device info from CFG file...
+[Debug] [2023-10-25 20:48:50] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 20:48:50] End to update graphic item and tree item ...
+[Debug] [2023-10-25 20:48:50] End to deal wiht chain from server.
+[Debug] [2023-10-25 20:48:50] end the exec of open cable cmd.
+[Debug] [2023-10-25 20:48:50] COMMAND[Open config cable] execute successfully, takes 2.2 secs.
+[Debug] [2023-10-25 20:48:52] Begin to send programming cmd...
+[Debug] [2023-10-25 20:48:52] Send RPC:4
+[Debug] [2023-10-25 20:48:52] Begin to send program data.
+[Debug] [2023-10-25 20:48:52] End to send program data.
+[Debug] [2023-10-25 20:48:52] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:48:52] The value of Progress is 6
+[Debug] [2023-10-25 20:48:52] The value of Progress is 10
+[Debug] [2023-10-25 20:48:52] The value of Progress is 15
+[Debug] [2023-10-25 20:48:52] The value of Progress is 20
+[Debug] [2023-10-25 20:48:52] The value of Progress is 25
+[Debug] [2023-10-25 20:48:52] The value of Progress is 30
+[Debug] [2023-10-25 20:48:53] The value of Progress is 35
+[Debug] [2023-10-25 20:48:53] The value of Progress is 40
+[Debug] [2023-10-25 20:48:53] The value of Progress is 45
+[Debug] [2023-10-25 20:48:53] The value of Progress is 50
+[Debug] [2023-10-25 20:48:53] The value of Progress is 55
+[Debug] [2023-10-25 20:48:53] The value of Progress is 60
+[Debug] [2023-10-25 20:48:53] The value of Progress is 65
+[Debug] [2023-10-25 20:48:53] The value of Progress is 70
+[Debug] [2023-10-25 20:48:53] The value of Progress is 75
+[Debug] [2023-10-25 20:48:53] The value of Progress is 80
+[Debug] [2023-10-25 20:48:53] The value of Progress is 85
+[Debug] [2023-10-25 20:48:54] The value of Progress is 90
+[Debug] [2023-10-25 20:48:54] The value of Progress is 95
+[Debug] [2023-10-25 20:48:54] The value of Progress is 100
+[Debug] [2023-10-25 20:48:54] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 20:48:54] End to send programming cmd.
+[Debug] [2023-10-25 20:59:09] Begin to send programming cmd...
+[Debug] [2023-10-25 20:59:09] Send RPC:5
+[Debug] [2023-10-25 20:59:09] Begin to send program data.
+[Debug] [2023-10-25 20:59:09] End to send program data.
+[Debug] [2023-10-25 20:59:09] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:59:10] The value of Progress is 6
+[Debug] [2023-10-25 20:59:10] The value of Progress is 10
+[Debug] [2023-10-25 20:59:10] The value of Progress is 15
+[Debug] [2023-10-25 20:59:10] The value of Progress is 20
+[Debug] [2023-10-25 20:59:10] The value of Progress is 25
+[Debug] [2023-10-25 20:59:10] The value of Progress is 30
+[Debug] [2023-10-25 20:59:10] The value of Progress is 35
+[Debug] [2023-10-25 20:59:10] The value of Progress is 40
+[Debug] [2023-10-25 20:59:10] The value of Progress is 45
+[Debug] [2023-10-25 20:59:10] The value of Progress is 50
+[Debug] [2023-10-25 20:59:11] The value of Progress is 55
+[Debug] [2023-10-25 20:59:11] The value of Progress is 60
+[Debug] [2023-10-25 20:59:11] The value of Progress is 65
+[Debug] [2023-10-25 20:59:11] The value of Progress is 70
+[Debug] [2023-10-25 20:59:11] The value of Progress is 75
+[Debug] [2023-10-25 20:59:11] The value of Progress is 80
+[Debug] [2023-10-25 20:59:11] The value of Progress is 85
+[Debug] [2023-10-25 20:59:11] The value of Progress is 90
+[Debug] [2023-10-25 20:59:11] The value of Progress is 95
+[Debug] [2023-10-25 20:59:11] The value of Progress is 100
+[Debug] [2023-10-25 20:59:11] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 20:59:11] End to send programming cmd.
+[Debug] [2023-10-25 20:59:21] Begin to send programming cmd...
+[Debug] [2023-10-25 20:59:21] Send RPC:6
+[Debug] [2023-10-25 20:59:21] Begin to send program data.
+[Debug] [2023-10-25 20:59:21] End to send program data.
+[Debug] [2023-10-25 20:59:21] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 20:59:21] The value of Progress is 6
+[Debug] [2023-10-25 20:59:21] The value of Progress is 10
+[Debug] [2023-10-25 20:59:21] The value of Progress is 15
+[Debug] [2023-10-25 20:59:21] The value of Progress is 20
+[Debug] [2023-10-25 20:59:21] The value of Progress is 25
+[Debug] [2023-10-25 20:59:22] The value of Progress is 30
+[Debug] [2023-10-25 20:59:22] The value of Progress is 35
+[Debug] [2023-10-25 20:59:22] The value of Progress is 40
+[Debug] [2023-10-25 20:59:22] The value of Progress is 45
+[Debug] [2023-10-25 20:59:22] The value of Progress is 50
+[Debug] [2023-10-25 20:59:22] The value of Progress is 55
+[Debug] [2023-10-25 20:59:22] The value of Progress is 60
+[Debug] [2023-10-25 20:59:22] The value of Progress is 65
+[Debug] [2023-10-25 20:59:22] The value of Progress is 70
+[Debug] [2023-10-25 20:59:22] The value of Progress is 75
+[Debug] [2023-10-25 20:59:22] The value of Progress is 80
+[Debug] [2023-10-25 20:59:23] The value of Progress is 85
+[Debug] [2023-10-25 20:59:23] The value of Progress is 90
+[Debug] [2023-10-25 20:59:23] The value of Progress is 95
+[Debug] [2023-10-25 20:59:23] The value of Progress is 100
+[Debug] [2023-10-25 20:59:23] COMMAND[Program] execute successfully, takes 2.1 secs.
+[Debug] [2023-10-25 20:59:23] End to send programming cmd.
+[Info] [2023-10-25 20:59:36] /***************************End Configration***************************/
+[Info] [2023-10-25 21:23:33] /***************************Start Configuration***************************/
+[Info] [2023-10-25 21:23:33] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 21:23:33] Version: 99559
+[Info] [2023-10-25 21:23:34] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:23:34] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:23:37] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 21:23:37] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 21:23:37] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 21:23:37] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 21:23:37] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 21:23:37] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 21:23:37] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 21:23:37] Finish.
+[Info] [2023-10-25 21:23:37] Connect server succeeded
+[Debug] [2023-10-25 21:23:37] Send RPC:1
+[Debug] [2023-10-25 21:23:37] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 21:23:37] Send RPC:2
+[Debug] [2023-10-25 21:23:37] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 21:23:37] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 21:23:37] Send RPC:3
+[Debug] [2023-10-25 21:23:37] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 21:23:37] End to send initialize chain cmd.
+[Debug] [2023-10-25 21:23:37] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 21:23:38] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2023-10-25 21:23:39] begin the exec of open cable cmd...
+[Debug] [2023-10-25 21:23:39] Begin to deal with chain from server...
+[Debug] [2023-10-25 21:23:39] Begin to set user chain...
+[Debug] [2023-10-25 21:23:39] End to set user chain.
+[Debug] [2023-10-25 21:23:39] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:23:39] End to update graphic item and tree item ...
+[Info] [2023-10-25 21:23:59] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 21:23:59] begin to get device info from CFG file...
+[Debug] [2023-10-25 21:23:59] end to get device info from CFG file...
+[Debug] [2023-10-25 21:23:59] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:23:59] End to update graphic item and tree item ...
+[Debug] [2023-10-25 21:23:59] End to deal wiht chain from server.
+[Debug] [2023-10-25 21:23:59] end the exec of open cable cmd.
+[Debug] [2023-10-25 21:23:59] COMMAND[Open config cable] execute successfully, takes 21.3 secs.
+[Debug] [2023-10-25 21:24:00] Begin to send programming cmd...
+[Debug] [2023-10-25 21:24:00] Send RPC:4
+[Debug] [2023-10-25 21:24:00] Begin to send program data.
+[Debug] [2023-10-25 21:24:00] End to send program data.
+[Debug] [2023-10-25 21:24:00] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 21:24:00] The value of Progress is 6
+[Debug] [2023-10-25 21:24:00] The value of Progress is 10
+[Debug] [2023-10-25 21:24:00] The value of Progress is 15
+[Debug] [2023-10-25 21:24:00] The value of Progress is 20
+[Debug] [2023-10-25 21:24:00] The value of Progress is 25
+[Debug] [2023-10-25 21:24:00] The value of Progress is 30
+[Debug] [2023-10-25 21:24:00] The value of Progress is 35
+[Debug] [2023-10-25 21:24:01] The value of Progress is 40
+[Debug] [2023-10-25 21:24:01] The value of Progress is 45
+[Debug] [2023-10-25 21:24:01] The value of Progress is 50
+[Debug] [2023-10-25 21:24:01] The value of Progress is 55
+[Debug] [2023-10-25 21:24:01] The value of Progress is 60
+[Debug] [2023-10-25 21:24:01] The value of Progress is 65
+[Debug] [2023-10-25 21:24:01] The value of Progress is 70
+[Debug] [2023-10-25 21:24:01] The value of Progress is 75
+[Debug] [2023-10-25 21:24:01] The value of Progress is 80
+[Debug] [2023-10-25 21:24:01] The value of Progress is 85
+[Debug] [2023-10-25 21:24:01] The value of Progress is 90
+[Debug] [2023-10-25 21:24:01] The value of Progress is 95
+[Debug] [2023-10-25 21:24:02] The value of Progress is 100
+[Debug] [2023-10-25 21:24:02] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 21:24:02] End to send programming cmd.
+[Info] [2023-10-25 21:26:38] /***************************End Configration***************************/
+[Info] [2023-10-25 21:35:16] /***************************Start Configuration***************************/
+[Info] [2023-10-25 21:35:16] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 21:35:16] Version: 99559
+[Info] [2023-10-25 21:35:17] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:35:17] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:35:19] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 21:35:19] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 21:35:19] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 21:35:19] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 21:35:19] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 21:35:19] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 21:35:20] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 21:35:20] Finish.
+[Info] [2023-10-25 21:35:20] Connect server succeeded
+[Debug] [2023-10-25 21:35:20] Send RPC:1
+[Debug] [2023-10-25 21:35:20] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 21:35:20] Send RPC:2
+[Debug] [2023-10-25 21:35:20] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 21:35:20] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 21:35:20] Send RPC:3
+[Debug] [2023-10-25 21:35:20] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 21:35:20] End to send initialize chain cmd.
+[Debug] [2023-10-25 21:35:20] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 21:35:20] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2023-10-25 21:35:21] begin the exec of open cable cmd...
+[Debug] [2023-10-25 21:35:21] Begin to deal with chain from server...
+[Debug] [2023-10-25 21:35:21] Begin to set user chain...
+[Debug] [2023-10-25 21:35:21] End to set user chain.
+[Debug] [2023-10-25 21:35:21] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:35:21] End to update graphic item and tree item ...
+[Info] [2023-10-25 21:35:21] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 21:35:21] begin to get device info from CFG file...
+[Debug] [2023-10-25 21:35:21] end to get device info from CFG file...
+[Debug] [2023-10-25 21:35:21] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:35:21] End to update graphic item and tree item ...
+[Debug] [2023-10-25 21:35:21] End to deal wiht chain from server.
+[Debug] [2023-10-25 21:35:21] end the exec of open cable cmd.
+[Debug] [2023-10-25 21:35:21] COMMAND[Open config cable] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 21:35:22] Begin to send programming cmd...
+[Debug] [2023-10-25 21:35:22] Send RPC:4
+[Debug] [2023-10-25 21:35:22] Begin to send program data.
+[Debug] [2023-10-25 21:35:22] End to send program data.
+[Debug] [2023-10-25 21:35:22] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 21:35:23] The value of Progress is 6
+[Debug] [2023-10-25 21:35:23] The value of Progress is 10
+[Debug] [2023-10-25 21:35:23] The value of Progress is 15
+[Debug] [2023-10-25 21:35:23] The value of Progress is 20
+[Debug] [2023-10-25 21:35:23] The value of Progress is 25
+[Debug] [2023-10-25 21:35:23] The value of Progress is 30
+[Debug] [2023-10-25 21:35:23] The value of Progress is 35
+[Debug] [2023-10-25 21:35:23] The value of Progress is 40
+[Debug] [2023-10-25 21:35:23] The value of Progress is 45
+[Debug] [2023-10-25 21:35:23] The value of Progress is 50
+[Debug] [2023-10-25 21:35:24] The value of Progress is 55
+[Debug] [2023-10-25 21:35:24] The value of Progress is 60
+[Debug] [2023-10-25 21:35:24] The value of Progress is 65
+[Debug] [2023-10-25 21:35:24] The value of Progress is 70
+[Debug] [2023-10-25 21:35:24] The value of Progress is 75
+[Debug] [2023-10-25 21:35:24] The value of Progress is 80
+[Debug] [2023-10-25 21:35:24] The value of Progress is 85
+[Debug] [2023-10-25 21:35:24] The value of Progress is 90
+[Debug] [2023-10-25 21:35:24] The value of Progress is 95
+[Debug] [2023-10-25 21:35:24] The value of Progress is 100
+[Debug] [2023-10-25 21:35:24] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 21:35:24] End to send programming cmd.
+[Info] [2023-10-25 21:46:18] /***************************End Configration***************************/
+[Info] [2023-10-25 21:47:07] /***************************Start Configuration***************************/
+[Info] [2023-10-25 21:47:07] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-10-25 21:47:07] Version: 99559
+[Info] [2023-10-25 21:47:08] Current Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:47:08] PDS Dir Path: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project
+[Info] [2023-10-25 21:47:10] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-10-25 21:47:10] Client Local host name:DESKTOP-8PKN27U
+[Debug] [2023-10-25 21:47:10] Client Local Address:10.37.242.177
+[Debug] [2023-10-25 21:47:10] Client Local Address:192.168.81.1
+[Debug] [2023-10-25 21:47:10] Client Local Address:192.168.10.1
+[Debug] [2023-10-25 21:47:10] Server Address:127.0.0.1, Port:65420
+[Info] [2023-10-25 21:47:10] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-10-25 21:47:10] Finish.
+[Info] [2023-10-25 21:47:10] Connect server succeeded
+[Debug] [2023-10-25 21:47:10] Send RPC:1
+[Debug] [2023-10-25 21:47:10] Send cmd [check version information:40005] OK
+[Debug] [2023-10-25 21:47:10] Send RPC:2
+[Debug] [2023-10-25 21:47:10] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-10-25 21:47:10] Begin to send initialize chain cmd...
+[Debug] [2023-10-25 21:47:10] Send RPC:3
+[Debug] [2023-10-25 21:47:10] Send cmd [Open config cable:20001] OK
+[Debug] [2023-10-25 21:47:10] End to send initialize chain cmd.
+[Debug] [2023-10-25 21:47:10] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2023-10-25 21:47:11] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2023-10-25 21:47:12] begin the exec of open cable cmd...
+[Debug] [2023-10-25 21:47:12] Begin to deal with chain from server...
+[Debug] [2023-10-25 21:47:12] Begin to set user chain...
+[Debug] [2023-10-25 21:47:12] End to set user chain.
+[Debug] [2023-10-25 21:47:12] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:47:12] End to update graphic item and tree item ...
+[Info] [2023-10-25 21:47:13] set OpenLastPath: D:/FPGA_projects/PANGOMICRO/video_stitching_scaling_v1/pango_project/generate_bitstream/video_stitching_scaling.sbit
+[Debug] [2023-10-25 21:47:13] begin to get device info from CFG file...
+[Debug] [2023-10-25 21:47:13] end to get device info from CFG file...
+[Debug] [2023-10-25 21:47:13] Begin to update graphic item and tree item ...
+[Debug] [2023-10-25 21:47:13] End to update graphic item and tree item ...
+[Debug] [2023-10-25 21:47:13] End to deal wiht chain from server.
+[Debug] [2023-10-25 21:47:13] end the exec of open cable cmd.
+[Debug] [2023-10-25 21:47:13] COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2023-10-25 21:47:14] Begin to send programming cmd...
+[Debug] [2023-10-25 21:47:14] Send RPC:4
+[Debug] [2023-10-25 21:47:14] Begin to send program data.
+[Debug] [2023-10-25 21:47:14] End to send program data.
+[Debug] [2023-10-25 21:47:14] Send cmd [Program:20002] OK
+[Debug] [2023-10-25 21:47:14] The value of Progress is 6
+[Debug] [2023-10-25 21:47:14] The value of Progress is 10
+[Debug] [2023-10-25 21:47:14] The value of Progress is 15
+[Debug] [2023-10-25 21:47:14] The value of Progress is 20
+[Debug] [2023-10-25 21:47:14] The value of Progress is 25
+[Debug] [2023-10-25 21:47:14] The value of Progress is 30
+[Debug] [2023-10-25 21:47:14] The value of Progress is 35
+[Debug] [2023-10-25 21:47:14] The value of Progress is 40
+[Debug] [2023-10-25 21:47:15] The value of Progress is 45
+[Debug] [2023-10-25 21:47:15] The value of Progress is 50
+[Debug] [2023-10-25 21:47:15] The value of Progress is 55
+[Debug] [2023-10-25 21:47:15] The value of Progress is 60
+[Debug] [2023-10-25 21:47:15] The value of Progress is 65
+[Debug] [2023-10-25 21:47:15] The value of Progress is 70
+[Debug] [2023-10-25 21:47:15] The value of Progress is 75
+[Debug] [2023-10-25 21:47:15] The value of Progress is 80
+[Debug] [2023-10-25 21:47:15] The value of Progress is 85
+[Debug] [2023-10-25 21:47:15] The value of Progress is 90
+[Debug] [2023-10-25 21:47:15] The value of Progress is 95
+[Debug] [2023-10-25 21:47:15] The value of Progress is 100
+[Debug] [2023-10-25 21:47:16] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2023-10-25 21:47:16] End to send programming cmd.
+[Info] [2023-10-25 21:54:25] /***************************End Configration***************************/
